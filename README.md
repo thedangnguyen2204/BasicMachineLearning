@@ -1,6 +1,6 @@
 # Project Title
 
-Self Study based on a basic machine learning blog
+Self Study based on a basic machine learning blog and Python/MachineLearning Book
 
 ## Authors
 
